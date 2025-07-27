@@ -283,8 +283,8 @@ copies or substantial portions of the Software.
 **Shoyeb Rampure**
 - 📧 Email: [shoyebrampure@gmail.com](mailto:shoyebrampure@gmail.com)
 - 🐙 GitHub: [@ShoyebRampure](https://github.com/ShoyebRampure)
-- 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [Connect with me]
+- 🌐 Portfolio: shoyebrampure.in
+- 💼 LinkedIn: Shoyeb Rampure
 
 ## 🙏 Acknowledgments
 
